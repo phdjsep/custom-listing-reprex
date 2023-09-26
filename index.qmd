@@ -1,0 +1,24 @@
+---
+pagetitle: "Gallery"
+format:
+  html:
+    toc: false
+    page-layout: full
+search: false
+execute:
+  echo: false
+listing:
+  - id: gallery
+    categories: true
+    template: gallery.ejs
+    contents: gallery.yml
+    sort-ui: false
+    filter-ui: false
+    page-size: 5
+description: |
+  A gallery of websites created with Quarto.
+---
+
+
+::: {#gallery}
+:::

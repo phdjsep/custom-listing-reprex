@@ -1,0 +1,21 @@
+tiles:
+  - title: quarto.org 
+    categories: [website, documentation]
+    href: https://quarto.org
+    code: https://github.com/quarto-dev/quarto-web/
+    thumbnail: websites/websites-quarto.png
+  - title: R-Manuals
+    categories: [website, documentation]
+    href: https://rstudio.github.io/r-manuals/
+    code: https://github.com/rstudio/r-manualsweb
+    thumbnail: websites/websites-r-manuals.png
+  - title: Quarto tip a day
+    categories: [website, blog]
+    href: https://mine-cetinkaya-rundel.github.io/quarto-tip-a-day/
+    code: https://github.com/mine-cetinkaya-rundel/quarto-tip-a-day
+    thumbnail: websites/websites-quartotip.png
+  - title: nbdev
+    categories: [website, business]
+    href: https://nbdev.fast.ai/
+    code: https://github.com/fastai/nbdev
+    thumbnail: websites/websites-nbdev.png

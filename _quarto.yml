@@ -1,0 +1,24 @@
+project:
+  type: website
+  preview:
+    port: 4300
+    browser: true
+  
+website: 
+  title: "Reprex"
+  back-to-top-navigation: true
+  page-navigation: true
+
+  page-footer:
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+
+format:
+  html:
+    theme:
+      light: [cosmo, assets/styles/styles.scss]
+    code-copy: true
+    code-overflow: wrap
+    toc: false
+
+execute:
+  freeze: auto
